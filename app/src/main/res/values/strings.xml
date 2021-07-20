@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sokoban</string>
+    <string name="level_label">Level:</string>
+    <string name="targets_label">Targets Completed:</string>
+    <string name="move_label">Move:</string>
+    <string name="up_label">UP</string>
+    <string name="down_label">DOWN</string>
+    <string name="right_label">RIGHT</string>
+    <string name="left_label">LEFT</string>
+</resources>
